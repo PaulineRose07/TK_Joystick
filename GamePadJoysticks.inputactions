@@ -1,0 +1,94 @@
+{
+    "name": "GamePadJoysticks",
+    "maps": [
+        {
+            "name": "TwoInputJoystick",
+            "id": "50690127-0217-4e5b-aa04-4fd584bc2ea4",
+            "actions": [
+                {
+                    "name": "Rotate Left/Right",
+                    "type": "Value",
+                    "id": "d0cfc988-2b40-4428-9798-5a707a9c73fe",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "Move Up/Down",
+                    "type": "Value",
+                    "id": "c3f22adf-30ca-4acf-9264-66e68ae5b9e2",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "Move Left/Right",
+                    "type": "Value",
+                    "id": "fae812f1-b3a8-4fc1-921a-50a8459660b5",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "Move Forward/Back",
+                    "type": "Value",
+                    "id": "3dfd7bc1-01e4-44ad-872b-302893c7be16",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "21cea056-23ca-40d4-834a-3692a9fe5c5f",
+                    "path": "<Gamepad>/leftStick/x",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Rotate Left/Right",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "b535965f-72f6-4b91-a209-0e52e0a84822",
+                    "path": "<Gamepad>/leftStick/y",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Move Up/Down",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "132a1c08-457c-455a-95db-67eac4e89992",
+                    "path": "<Gamepad>/rightStick/x",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Move Left/Right",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "f824476b-2dae-4e1e-88e0-d9cf613269f3",
+                    "path": "<Gamepad>/rightStick/y",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Move Forward/Back",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
