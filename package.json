@@ -1,0 +1,23 @@
+{
+  "name": "be.paulinegossart.tkTwoInputJoysticks",
+  "displayName": "TK Joystics Pauline Sample",
+  "version": "0.0.1",
+  "unity": "2019.1",
+  "unityRelease": "",
+  "description": "Joystick",
+  "keywords": [ "Script", "Tool" ],
+  "relatedPackages": {},
+  "samples": [],
+  "author": {
+    "name": "Pauline Gossart",
+    "mail": "",
+    "url": "https://github.com/PaulineRose07"
+  },
+  "repository": {
+    "type": "Git",
+    "url": "",
+    "footprint": "",
+    "revision": ""
+  },
+  "category": "Script"
+} 
